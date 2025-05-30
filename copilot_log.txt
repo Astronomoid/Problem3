@@ -12,3 +12,7 @@ Steps taken in the project:
    - Created code/ directory for Python scripts
    - Moved generate_coordinates.py and coordinates_plot.py to code/
    - Updated file paths to handle new directory structure
+10. Set up Git repository:
+    - Created .gitignore file
+    - Added and committed all files
+    - Configured Git user information
