@@ -16,3 +16,9 @@ Steps taken in the project:
     - Created .gitignore file
     - Added and committed all files
     - Configured Git user information
+11. Enhanced visualization aesthetics:
+    - Added custom color schemes for each coordinate system
+    - Improved plot styling with dark background theme
+    - Added better titles and labels
+    - Customized grid appearance
+    - Added metadata text
