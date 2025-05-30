@@ -22,3 +22,4 @@ Steps taken in the project:
     - Added better titles and labels
     - Customized grid appearance
     - Added metadata text
+12. Created session_log.md documenting the entire project development process
