@@ -1,0 +1,14 @@
+Steps taken in the project:
+
+1. Initialized Git repository using 'git init'
+2. Created a 'plot' directory for storing plot-related files
+3. Created this copilot_log.txt file to track our progress
+4. Created generate_coordinates.py script to generate 500 random astronomical coordinates
+5. Generated coordinates.csv file with RA (0-360°) and Dec (-90° to +90°) values
+6. Created README.md with project documentation and structure
+7. Added coordinate conversion functionality using astropy to convert RA/Dec to Galactic and Ecliptic coordinates
+8. Created coordinates_plot.py script to visualize the coordinate systems (Equatorial, Galactic, and Ecliptic)
+9. Reorganized project structure:
+   - Created code/ directory for Python scripts
+   - Moved generate_coordinates.py and coordinates_plot.py to code/
+   - Updated file paths to handle new directory structure
